@@ -17,8 +17,11 @@ I am ready to contribute as a Junior Backend / Full-Stack Developer, work with a
 ## Tech Stack
 
 **Backend:** C#, ASP.NET Core, PHP, Node.js Basics
+
 **Databases:** SQL Server, MySQL, Entity Framework
+
 **Frontend:** HTML, CSS, JavaScript, React Basics
+
 **Tools:** Git, GitHub, Visual Studio, VS Code
 
 ## Featured Projects
